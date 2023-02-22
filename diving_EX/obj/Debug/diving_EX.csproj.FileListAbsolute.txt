@@ -1,0 +1,14 @@
+C:\Users\iritt\OneDrive\שולחן העבודה\diving_EX\diving_EX\obj\Debug\diving_EX.csprojAssemblyReference.cache
+C:\Users\iritt\OneDrive\שולחן העבודה\diving_EX\diving_EX\obj\Debug\diving_EX.csproj.CoreCompileInputs.cache
+C:\Users\iritt\OneDrive\שולחן העבודה\diving_EX\diving_EX\bin\Debug\diving_EX.exe.config
+C:\Users\iritt\OneDrive\שולחן העבודה\diving_EX\diving_EX\bin\Debug\diving_EX.exe
+C:\Users\iritt\OneDrive\שולחן העבודה\diving_EX\diving_EX\bin\Debug\diving_EX.pdb
+C:\Users\iritt\OneDrive\שולחן העבודה\diving_EX\diving_EX\obj\Debug\diving_EX.exe
+C:\Users\iritt\OneDrive\שולחן העבודה\diving_EX\diving_EX\obj\Debug\diving_EX.pdb
+C:\IRITTAKA\Projects\diving_EX\diving_EX\bin\Debug\diving_EX.exe.config
+C:\IRITTAKA\Projects\diving_EX\diving_EX\bin\Debug\diving_EX.exe
+C:\IRITTAKA\Projects\diving_EX\diving_EX\bin\Debug\diving_EX.pdb
+C:\IRITTAKA\Projects\diving_EX\diving_EX\obj\Debug\diving_EX.csproj.AssemblyReference.cache
+C:\IRITTAKA\Projects\diving_EX\diving_EX\obj\Debug\diving_EX.csproj.CoreCompileInputs.cache
+C:\IRITTAKA\Projects\diving_EX\diving_EX\obj\Debug\diving_EX.exe
+C:\IRITTAKA\Projects\diving_EX\diving_EX\obj\Debug\diving_EX.pdb
